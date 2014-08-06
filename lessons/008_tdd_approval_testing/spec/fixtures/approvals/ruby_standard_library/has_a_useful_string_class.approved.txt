@@ -1,0 +1,4 @@
+[0] "\"fOo\".downcase => foo"
+[1] "\"fOo\".upcase => FOO"
+[2] "\"fOo\".size => 3"
+[3] "\"fOo\".empty? => false"

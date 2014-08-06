@@ -1,0 +1,32 @@
+# Lesson 00X - category - name
+
+### Running the exercises
+
+See the top-level README for how to run the exercises. This lesson's exercises
+are in the `lessons/00x_cat_name_fluffy` directory.
+
+If you run into problems, it may be because your vagrant box is out of date. You
+can run `vagrant box outdated` to check, and then `vagrant box update` to update
+the image. You then need to destroy your local box and restart it, with `vagrant
+destroy` and `vagrant up`.
+
+--------
+
+# Lesson Name
+
+
+--------
+
+## Exercise 1 -
+
+--------
+
+## Exercise 2 -
+
+--------
+
+# Wrap up
+
+--------
+
+## References

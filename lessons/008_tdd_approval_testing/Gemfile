@@ -1,0 +1,3 @@
+source 'https://rubygems.org'
+gem 'rspec'
+gem 'approvals', git: 'https://github.com/patmaddox/approvals.git', tag: 'diff_absent_file'
