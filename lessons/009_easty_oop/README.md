@@ -12,7 +12,7 @@ destroy` and `vagrant up`.
 
 --------
 
-# Lesson Name
+# Easty OOP
 
 How do you write good OO programs? How do you know that your design follows good
 OO principles? How do you know when you need to follow good OO principles, and
@@ -58,7 +58,7 @@ can follow the chain of messages.
 The main idea behind east-oriented code is collaboration. Objects collaborate
 with one another to do different things. If you've studied any design patterns,
 you may have noticed that the majority of the design patterns involve
-colloration or enable it in some way.
+collaboration or enable it in some way.
 
 The east-oriented rule is simple: send messages to objects you know about, and
 pass along any information they need in order to get the job done. This results
