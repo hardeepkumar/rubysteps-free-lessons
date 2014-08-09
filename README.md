@@ -8,9 +8,8 @@ You can clone this repo! You should see a clone button in the GitLab
 interface. I want you to use this as an experimental playground. Feel free to
 mess with all of the exercises, add your own code, whatever. You can even use it
 just to practice git if you want. Please see the license about copying and
-distributing RubySteps content. Short version: you can make personal backups,
-and you can share on https://lab.patmaddox.com but you may not share any content
-outside of this site.
+distributing RubySteps content. Short version: you may make personal backups,
+and you may share any free lessons, but you may not share paid lessons.
 
 ## For the hacker types
 
