@@ -31,7 +31,7 @@ and virtualbox, then clone the RubySteps source code and launch the box.
 three lines of code in your terminal)
 
 ```
-git clone https://lab.patmaddox.com/pat/rubysteps.git
+git clone https://github.com/RubySteps/rubysteps.git
 cd rubysteps
 vagrant up
 ```
